@@ -2,10 +2,10 @@
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
     <modelVersion>4.0.0</modelVersion>
     <groupId>org.jease</groupId>
-    <artifactId>jease</artifactId>
+    <artifactId>jeasePlus</artifactId>
     <packaging>war</packaging>
     <version>4.0-SNAPSHOT</version>
-    <name>JeaseCMS</name>
+    <name>JeaseCMSPLUS</name>
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <java.version>1.8</java.version>
@@ -168,8 +168,9 @@
         <dependency>
             <groupId>mysql</groupId>
             <artifactId>mysql-connector-java</artifactId>
-            <version>6.0.5</version>
+            <version>8.0.11</version>
         </dependency>
+
     </dependencies>
     <build>
         <finalName>ROOT</finalName>
