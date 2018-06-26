@@ -26,7 +26,7 @@ Any feedback is welcome, and I will incorporate useful pull requests.
 Technologies
 ------------
 
-* [DB4O](http://db4o.com) db4o or Perst or ZooDB as object-oriented persistence engines
+
 * [Lucene](http://lucene.apache.org/) Lucene as high performance indexing and search technology.
 * [Bootstrap](http://getbootstrap.com/)
 * [ZK](https://zkoss.org/) ZK as component- & event-driven Ajax-Web-Framework.
